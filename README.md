@@ -1,5 +1,6 @@
 <h1 align=center>TTL-Changer</h1>
 <br>
+<img src="/cmd.jpg">
 <h2>What is TTL?</h2>
 <p>TTL (Time to Live) - the lifetime of the packets that are transmitted over the network.</p>
 <br>
